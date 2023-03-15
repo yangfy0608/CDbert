@@ -1,0 +1,372 @@
+2023-03-10 Friday 08:11:15  PreProcessGenome.py : INFO  start to process file bacteria.1.genomic.gbff
+2023-03-10 Friday 08:36:39  PreProcessGenome.py : INFO  start to process file viral.1.genomic.gbff
+2023-03-10 Friday 08:36:40  PreProcessGenome.py : WARNING  NC_029578 has no quality CDS
+2023-03-10 Friday 08:36:41  PreProcessGenome.py : WARNING  NC_027432 has no quality CDS
+2023-03-10 Friday 08:36:41  PreProcessGenome.py : WARNING  NC_027702 has no quality CDS
+2023-03-10 Friday 08:36:42  PreProcessGenome.py : WARNING  NC_028132 has no quality CDS
+2023-03-10 Friday 08:36:42  PreProcessGenome.py : WARNING  NC_028131 has no quality CDS
+2023-03-10 Friday 08:36:43  PreProcessGenome.py : WARNING  NC_028271 has no quality CDS
+2023-03-10 Friday 08:36:45  PreProcessGenome.py : WARNING  NC_030648 has no quality CDS
+2023-03-10 Friday 08:36:45  PreProcessGenome.py : WARNING  NC_030649 has no quality CDS
+2023-03-10 Friday 08:36:48  PreProcessGenome.py : INFO  NC_033197 length 5635 CDS complement:False [[['121', '3786']]] Z percent 6.22%
+2023-03-10 Friday 08:36:49  PreProcessGenome.py : INFO  NC_033187 length 3557 CDS complement:False [[['2188', '3243']]] Z percent 5.7%
+2023-03-10 Friday 08:36:50  PreProcessGenome.py : WARNING  NC_018671 has no quality CDS
+2023-03-10 Friday 08:36:51  PreProcessGenome.py : WARNING  NC_025220 has no quality CDS
+2023-03-10 Friday 08:36:52  PreProcessGenome.py : WARNING  NC_035620 has no quality CDS
+2023-03-10 Friday 08:36:53  PreProcessGenome.py : WARNING  NC_037664 has no quality CDS
+2023-03-10 Friday 08:36:54  PreProcessGenome.py : WARNING  NC_020160 has no quality CDS
+2023-03-10 Friday 08:36:56  PreProcessGenome.py : WARNING  NC_024777 has no quality CDS
+2023-03-10 Friday 08:36:56  PreProcessGenome.py : WARNING  NC_024807 has no quality CDS
+2023-03-10 Friday 08:36:56  PreProcessGenome.py : WARNING  NC_021579 has no quality CDS
+2023-03-10 Friday 08:36:56  PreProcessGenome.py : WARNING  NC_021720 has no quality CDS
+2023-03-10 Friday 08:36:56  PreProcessGenome.py : INFO  NC_021866 cds ['3566', 3826] region has error, extend 1 at the end
+2023-03-10 Friday 08:36:57  PreProcessGenome.py : WARNING  NC_021929 has no quality CDS
+2023-03-10 Friday 08:36:57  PreProcessGenome.py : WARNING  NC_025219 has no quality CDS
+2023-03-10 Friday 08:36:58  PreProcessGenome.py : INFO  NC_026019 length 7146 CDS complement:False [[['59', '334']]] X percent=7.69%, translation len: 91 encode len: 91
+2023-03-10 Friday 08:37:00  PreProcessGenome.py : WARNING  NC_022893 has no quality CDS
+2023-03-10 Friday 08:37:00  PreProcessGenome.py : WARNING  NC_018451 has no quality CDS
+2023-03-10 Friday 08:37:00  PreProcessGenome.py : WARNING  NC_023639 has no quality CDS
+2023-03-10 Friday 08:37:02  PreProcessGenome.py : WARNING  NC_002559 has no quality CDS
+2023-03-10 Friday 08:37:02  PreProcessGenome.py : WARNING  NC_007725 has no quality CDS
+2023-03-10 Friday 08:37:02  PreProcessGenome.py : WARNING  NC_003533 has no quality CDS
+2023-03-10 Friday 08:37:02  PreProcessGenome.py : WARNING  NC_008847 has no quality CDS
+2023-03-10 Friday 08:37:03  PreProcessGenome.py : WARNING  NC_003850 has no quality CDS
+2023-03-10 Friday 08:37:03  PreProcessGenome.py : WARNING  NC_011362 has no quality CDS
+2023-03-10 Friday 08:37:03  PreProcessGenome.py : WARNING  NC_003889 has no quality CDS
+2023-03-10 Friday 08:37:03  PreProcessGenome.py : WARNING  NC_010165 has no quality CDS
+2023-03-10 Friday 08:37:04  PreProcessGenome.py : WARNING  NC_002738 has no quality CDS
+2023-03-10 Friday 08:37:05  PreProcessGenome.py : WARNING  NC_003463 has no quality CDS
+2023-03-10 Friday 08:37:05  PreProcessGenome.py : WARNING  NC_001351 has no quality CDS
+2023-03-10 Friday 08:37:05  PreProcessGenome.py : WARNING  NC_006458 has no quality CDS
+2023-03-10 Friday 08:37:06  PreProcessGenome.py : WARNING  NC_010315 has no quality CDS
+2023-03-10 Friday 08:37:06  PreProcessGenome.py : WARNING  NC_002030 has no quality CDS
+2023-03-10 Friday 08:37:06  PreProcessGenome.py : WARNING  NC_008837 has no quality CDS
+2023-03-10 Friday 08:37:06  PreProcessGenome.py : WARNING  NC_008838 has no quality CDS
+2023-03-10 Friday 08:37:06  PreProcessGenome.py : WARNING  NC_008841 has no quality CDS
+2023-03-10 Friday 08:37:06  PreProcessGenome.py : WARNING  NC_008849 has no quality CDS
+2023-03-10 Friday 08:37:06  PreProcessGenome.py : WARNING  NC_008850 has no quality CDS
+2023-03-10 Friday 08:37:06  PreProcessGenome.py : WARNING  NC_008855 has no quality CDS
+2023-03-10 Friday 08:37:06  PreProcessGenome.py : WARNING  NC_008856 has no quality CDS
+2023-03-10 Friday 08:37:06  PreProcessGenome.py : WARNING  NC_008874 has no quality CDS
+2023-03-10 Friday 08:37:06  PreProcessGenome.py : WARNING  NC_008875 has no quality CDS
+2023-03-10 Friday 08:37:06  PreProcessGenome.py : WARNING  NC_008877 has no quality CDS
+2023-03-10 Friday 08:37:06  PreProcessGenome.py : WARNING  NC_008879 has no quality CDS
+2023-03-10 Friday 08:37:06  PreProcessGenome.py : WARNING  NC_008882 has no quality CDS
+2023-03-10 Friday 08:37:06  PreProcessGenome.py : WARNING  NC_008886 has no quality CDS
+2023-03-10 Friday 08:37:06  PreProcessGenome.py : WARNING  NC_005819 has no quality CDS
+2023-03-10 Friday 08:37:06  PreProcessGenome.py : WARNING  NC_008897 has no quality CDS
+2023-03-10 Friday 08:37:06  PreProcessGenome.py : WARNING  NC_008903 has no quality CDS
+2023-03-10 Friday 08:37:06  PreProcessGenome.py : WARNING  NC_008907 has no quality CDS
+2023-03-10 Friday 08:37:06  PreProcessGenome.py : WARNING  NC_008915 has no quality CDS
+2023-03-10 Friday 08:37:06  PreProcessGenome.py : WARNING  NC_008916 has no quality CDS
+2023-03-10 Friday 08:37:06  PreProcessGenome.py : WARNING  NC_008918 has no quality CDS
+2023-03-10 Friday 08:37:06  PreProcessGenome.py : WARNING  NC_008929 has no quality CDS
+2023-03-10 Friday 08:37:06  PreProcessGenome.py : WARNING  NC_008935 has no quality CDS
+2023-03-10 Friday 08:37:07  PreProcessGenome.py : WARNING  NC_003855 has no quality CDS
+2023-03-10 Friday 08:37:07  PreProcessGenome.py : WARNING  NC_003636 has no quality CDS
+2023-03-10 Friday 08:37:07  PreProcessGenome.py : WARNING  NC_003637 has no quality CDS
+2023-03-10 Friday 08:37:08  PreProcessGenome.py : WARNING  NC_010308 has no quality CDS
+2023-03-10 Friday 08:37:08  PreProcessGenome.py : INFO  NC_003811 cds ['2587', 3456] region has error, extend 1 at the end
+2023-03-10 Friday 08:37:09  PreProcessGenome.py : WARNING  NC_014129 has no quality CDS
+2023-03-10 Friday 08:37:09  PreProcessGenome.py : WARNING  NC_008844 has no quality CDS
+2023-03-10 Friday 08:37:09  PreProcessGenome.py : WARNING  NC_008865 has no quality CDS
+2023-03-10 Friday 08:37:09  PreProcessGenome.py : WARNING  NC_008931 has no quality CDS
+2023-03-10 Friday 08:37:09  PreProcessGenome.py : WARNING  NC_003882 has no quality CDS
+2023-03-10 Friday 08:37:09  PreProcessGenome.py : WARNING  NC_003264 has no quality CDS
+2023-03-10 Friday 08:37:09  PreProcessGenome.py : WARNING  NC_002561 has no quality CDS
+2023-03-10 Friday 08:37:09  PreProcessGenome.py : WARNING  NC_001558 has no quality CDS
+2023-03-10 Friday 08:37:09  PreProcessGenome.py : WARNING  NC_007999 has no quality CDS
+2023-03-10 Friday 08:37:09  PreProcessGenome.py : WARNING  NC_006956 has no quality CDS
+2023-03-10 Friday 08:37:09  PreProcessGenome.py : WARNING  NC_006957 has no quality CDS
+2023-03-10 Friday 08:37:09  PreProcessGenome.py : WARNING  NC_001462 has no quality CDS
+2023-03-10 Friday 08:37:10  PreProcessGenome.py : WARNING  NC_002562 has no quality CDS
+2023-03-10 Friday 08:37:10  PreProcessGenome.py : WARNING  NC_002564 has no quality CDS
+2023-03-10 Friday 08:37:10  PreProcessGenome.py : WARNING  NC_002566 has no quality CDS
+2023-03-10 Friday 08:37:10  PreProcessGenome.py : WARNING  NC_002567 has no quality CDS
+2023-03-10 Friday 08:37:10  PreProcessGenome.py : WARNING  NC_002563 has no quality CDS
+2023-03-10 Friday 08:37:10  PreProcessGenome.py : WARNING  NC_001553 has no quality CDS
+2023-03-10 Friday 08:37:10  PreProcessGenome.py : WARNING  NC_000885 has no quality CDS
+2023-03-10 Friday 08:37:10  PreProcessGenome.py : WARNING  NC_002557 has no quality CDS
+2023-03-10 Friday 08:37:10  PreProcessGenome.py : WARNING  NC_003538 has no quality CDS
+2023-03-10 Friday 08:37:10  PreProcessGenome.py : WARNING  NC_003682 has no quality CDS
+2023-03-10 Friday 08:37:10  PreProcessGenome.py : WARNING  NC_003683 has no quality CDS
+2023-03-10 Friday 08:37:10  PreProcessGenome.py : WARNING  NC_003612 has no quality CDS
+2023-03-10 Friday 08:37:10  PreProcessGenome.py : WARNING  NC_007986 has no quality CDS
+2023-03-10 Friday 08:37:10  PreProcessGenome.py : WARNING  NC_005875 has no quality CDS
+2023-03-10 Friday 08:37:10  PreProcessGenome.py : WARNING  NC_006451 has no quality CDS
+2023-03-10 Friday 08:37:11  PreProcessGenome.py : WARNING  NC_002560 has no quality CDS
+2023-03-10 Friday 08:37:12  PreProcessGenome.py : WARNING  NC_015783 has no quality CDS
+2023-03-10 Friday 08:37:12  PreProcessGenome.py : WARNING  NC_007990 has no quality CDS
+2023-03-10 Friday 08:37:12  PreProcessGenome.py : WARNING  NC_007992 has no quality CDS
+2023-03-10 Friday 08:37:12  PreProcessGenome.py : WARNING  NC_007993 has no quality CDS
+2023-03-10 Friday 08:37:12  PreProcessGenome.py : WARNING  NC_007994 has no quality CDS
+2023-03-10 Friday 08:37:12  PreProcessGenome.py : WARNING  NC_007996 has no quality CDS
+2023-03-10 Friday 08:37:12  PreProcessGenome.py : WARNING  NC_007998 has no quality CDS
+2023-03-10 Friday 08:37:12  PreProcessGenome.py : WARNING  NC_008000 has no quality CDS
+2023-03-10 Friday 08:37:12  PreProcessGenome.py : WARNING  NC_003059 has no quality CDS
+2023-03-10 Friday 08:37:12  PreProcessGenome.py : WARNING  NC_003553 has no quality CDS
+2023-03-10 Friday 08:37:12  PreProcessGenome.py : WARNING  NC_008001 has no quality CDS
+2023-03-10 Friday 08:37:12  PreProcessGenome.py : WARNING  NC_008002 has no quality CDS
+2023-03-10 Friday 08:37:12  PreProcessGenome.py : WARNING  NC_008005 has no quality CDS
+2023-03-10 Friday 08:37:12  PreProcessGenome.py : WARNING  NC_008008 has no quality CDS
+2023-03-10 Friday 08:37:12  PreProcessGenome.py : WARNING  NC_001471 has no quality CDS
+2023-03-10 Friday 08:37:12  PreProcessGenome.py : INFO  NC_003793 length 7768 CDS complement:False [[['871', '1089']]] Z percent 6.94%
+2023-03-10 Friday 08:37:13  PreProcessGenome.py : WARNING  NC_012805 has no quality CDS
+2023-03-10 Friday 08:37:13  PreProcessGenome.py : WARNING  NC_003681 has no quality CDS
+2023-03-10 Friday 08:37:13  PreProcessGenome.py : WARNING  NC_008839 has no quality CDS
+2023-03-10 Friday 08:37:13  PreProcessGenome.py : WARNING  NC_008868 has no quality CDS
+2023-03-10 Friday 08:37:13  PreProcessGenome.py : WARNING  NC_008899 has no quality CDS
+2023-03-10 Friday 08:37:13  PreProcessGenome.py : WARNING  NC_008963 has no quality CDS
+2023-03-10 Friday 08:37:13  PreProcessGenome.py : WARNING  NC_001830 has no quality CDS
+2023-03-10 Friday 08:37:13  PreProcessGenome.py : WARNING  NC_003611 has no quality CDS
+2023-03-10 Friday 08:37:13  PreProcessGenome.py : WARNING  NC_003854 has no quality CDS
+2023-03-10 Friday 08:37:13  PreProcessGenome.py : WARNING  NC_004033 has no quality CDS
+2023-03-10 Friday 08:37:13  PreProcessGenome.py : WARNING  NC_003906 has no quality CDS
+2023-03-10 Friday 08:37:13  PreProcessGenome.py : WARNING  NC_004048 has no quality CDS
+2023-03-10 Friday 08:37:14  PreProcessGenome.py : WARNING  NC_004092 has no quality CDS
+2023-03-10 Friday 08:37:14  PreProcessGenome.py : WARNING  NC_001651 has no quality CDS
+2023-03-10 Friday 08:37:14  PreProcessGenome.py : WARNING  NC_007586 has no quality CDS
+2023-03-10 Friday 08:37:14  PreProcessGenome.py : WARNING  NC_007587 has no quality CDS
+2023-03-10 Friday 08:37:14  PreProcessGenome.py : WARNING  NC_002602 has no quality CDS
+2023-03-10 Friday 08:37:14  PreProcessGenome.py : WARNING  NC_003475 has no quality CDS
+2023-03-10 Friday 08:37:14  PreProcessGenome.py : WARNING  NC_004359 has no quality CDS
+2023-03-10 Friday 08:37:15  PreProcessGenome.py : WARNING  NC_003798 has no quality CDS
+2023-03-10 Friday 08:37:15  PreProcessGenome.py : WARNING  NC_003851 has no quality CDS
+2023-03-10 Friday 08:37:16  PreProcessGenome.py : WARNING  NC_003540 has no quality CDS
+2023-03-10 Friday 08:37:16  PreProcessGenome.py : WARNING  NC_002558 has no quality CDS
+2023-03-10 Friday 08:37:17  PreProcessGenome.py : WARNING  NC_002743 has no quality CDS
+2023-03-10 Friday 08:37:18  PreProcessGenome.py : WARNING  NC_001464 has no quality CDS
+2023-03-10 Friday 08:37:18  PreProcessGenome.py : WARNING  NC_003613 has no quality CDS
+2023-03-10 Friday 08:37:18  PreProcessGenome.py : WARNING  NC_001920 has no quality CDS
+2023-03-10 Friday 08:37:18  PreProcessGenome.py : WARNING  NC_003826 has no quality CDS
+2023-03-10 Friday 08:37:18  PreProcessGenome.py : WARNING  NC_012127 has no quality CDS
+2023-03-10 Friday 08:37:19  PreProcessGenome.py : WARNING  NC_001467 has no quality CDS
+2023-03-10 Friday 08:37:19  PreProcessGenome.py : WARNING  NC_001468 has no quality CDS
+2023-03-10 Friday 08:37:19  PreProcessGenome.py : WARNING  NC_007721 has no quality CDS
+2023-03-10 Friday 08:37:19  PreProcessGenome.py : WARNING  NC_006652 has no quality CDS
+2023-03-10 Friday 08:37:20  PreProcessGenome.py : WARNING  NC_007991 has no quality CDS
+2023-03-10 Friday 08:37:21  PreProcessGenome.py : WARNING  NC_008862 has no quality CDS
+2023-03-10 Friday 08:37:21  PreProcessGenome.py : WARNING  NC_008892 has no quality CDS
+2023-03-10 Friday 08:37:23  PreProcessGenome.py : WARNING  NC_015631 has no quality CDS
+2023-03-10 Friday 08:37:23  PreProcessGenome.py : WARNING  NC_002015 has no quality CDS
+2023-03-10 Friday 08:37:23  PreProcessGenome.py : WARNING  NC_001410 has no quality CDS
+2023-03-10 Friday 08:37:23  PreProcessGenome.py : WARNING  NC_007995 has no quality CDS
+2023-03-10 Friday 08:37:23  PreProcessGenome.py : WARNING  NC_008006 has no quality CDS
+2023-03-10 Friday 08:37:24  PreProcessGenome.py : WARNING  NC_008925 has no quality CDS
+2023-03-10 Friday 08:37:24  PreProcessGenome.py : WARNING  NC_007987 has no quality CDS
+2023-03-10 Friday 08:37:24  PreProcessGenome.py : WARNING  NC_011590 has no quality CDS
+2023-03-10 Friday 08:37:25  PreProcessGenome.py : WARNING  NC_006460 has no quality CDS
+2023-03-10 Friday 08:37:25  PreProcessGenome.py : WARNING  NC_001546 has no quality CDS
+2023-03-10 Friday 08:37:25  PreProcessGenome.py : WARNING  NC_016536 has no quality CDS
+2023-03-10 Friday 08:37:26  PreProcessGenome.py : WARNING  NC_003539 has no quality CDS
+2023-03-10 Friday 08:37:27  PreProcessGenome.py : WARNING  NC_006630 has no quality CDS
+2023-03-10 Friday 08:37:28  PreProcessGenome.py : WARNING  NC_005225 has no quality CDS
+2023-03-10 Friday 08:37:28  PreProcessGenome.py : WARNING  NC_007988 has no quality CDS
+2023-03-10 Friday 08:37:28  PreProcessGenome.py : WARNING  NC_007989 has no quality CDS
+2023-03-10 Friday 08:37:28  PreProcessGenome.py : WARNING  NC_008004 has no quality CDS
+2023-03-10 Friday 08:37:29  PreProcessGenome.py : WARNING  NC_016963 has no quality CDS
+2023-03-10 Friday 08:37:29  PreProcessGenome.py : WARNING  NC_001340 has no quality CDS
+2023-03-10 Friday 08:37:31  PreProcessGenome.py : WARNING  NC_038811 has no quality CDS
+2023-03-10 Friday 08:37:31  PreProcessGenome.py : WARNING  NC_038812 has no quality CDS
+2023-03-10 Friday 08:37:31  PreProcessGenome.py : WARNING  NC_038813 has no quality CDS
+2023-03-10 Friday 08:37:31  PreProcessGenome.py : WARNING  NC_038814 has no quality CDS
+2023-03-10 Friday 08:37:32  PreProcessGenome.py : WARNING  NC_038938 has no quality CDS
+2023-03-10 Friday 08:37:32  PreProcessGenome.py : INFO  recursive refine_translation [('equal', 0, 94), ('replace', 94, 95), ('equal', 95, 149), ('replace', 149, 162), ('equal', 162, 163), ('replace', 163, 170), ('equal', 170, 171), ('replace', 171, 209), ('equal', 209, 211), ('replace', 211, 226), ('equal', 226, 227), ('replace', 227, 228), ('equal', 228, 229), ('replace', 229, 232), ('equal', 232, 233), ('replace', 233, 243), ('equal', 243, 244), ('replace', 244, 245), ('equal', 245, 246), ('replace', 246, 247), ('equal', 247, 248), ('replace', 248, 250), ('equal', 250, 251), ('replace', 251, 285), ('equal', 285, 286), ('replace', 286, 297), ('equal', 297, 298), ('replace', 298, 306), ('equal', 306, 307), ('replace', 307, 311), ('equal', 311, 313), ('replace', 313, 315), ('equal', 315, 316), ('replace', 316, 332), ('equal', 332, 333), ('replace', 333, 341), ('equal', 341, 342), ('replace', 342, 344), ('equal', 344, 345), ('replace', 345, 351), ('equal', 351, 352), ('replace', 352, 359), ('equal', 359, 360), ('replace', 360, 364), ('equal', 364, 365), ('replace', 365, 368), ('equal', 368, 369), ('replace', 369, 372), ('equal', 372, 373), ('replace', 373, 385)], index 3
+2023-03-10 Friday 08:37:33  PreProcessGenome.py : WARNING  NC_039241 has no quality CDS
+2023-03-10 Friday 08:37:33  PreProcessGenome.py : WARNING  NC_027704 has no quality CDS
+2023-03-10 Friday 08:37:35  PreProcessGenome.py : WARNING  NC_043073 has no quality CDS
+2023-03-10 Friday 08:37:35  PreProcessGenome.py : WARNING  NC_043074 has no quality CDS
+2023-03-10 Friday 08:37:35  PreProcessGenome.py : WARNING  NC_043075 has no quality CDS
+2023-03-10 Friday 08:37:35  PreProcessGenome.py : WARNING  NC_043084 has no quality CDS
+2023-03-10 Friday 08:37:35  PreProcessGenome.py : WARNING  NC_043095 has no quality CDS
+2023-03-10 Friday 08:37:35  PreProcessGenome.py : WARNING  NC_043109 has no quality CDS
+2023-03-10 Friday 08:37:35  PreProcessGenome.py : WARNING  NC_043122 has no quality CDS
+2023-03-10 Friday 08:37:35  PreProcessGenome.py : WARNING  NC_043200 has no quality CDS
+2023-03-10 Friday 08:37:35  PreProcessGenome.py : WARNING  NC_043201 has no quality CDS
+2023-03-10 Friday 08:37:35  PreProcessGenome.py : WARNING  NC_043202 has no quality CDS
+2023-03-10 Friday 08:37:35  PreProcessGenome.py : WARNING  NC_043203 has no quality CDS
+2023-03-10 Friday 08:37:35  PreProcessGenome.py : WARNING  NC_043204 has no quality CDS
+2023-03-10 Friday 08:37:35  PreProcessGenome.py : WARNING  NC_043205 has no quality CDS
+2023-03-10 Friday 08:37:35  PreProcessGenome.py : WARNING  NC_043223 has no quality CDS
+2023-03-10 Friday 08:37:35  PreProcessGenome.py : WARNING  NC_043224 has no quality CDS
+2023-03-10 Friday 08:37:35  PreProcessGenome.py : WARNING  NC_043225 has no quality CDS
+2023-03-10 Friday 08:37:35  PreProcessGenome.py : WARNING  NC_043226 has no quality CDS
+2023-03-10 Friday 08:37:35  PreProcessGenome.py : WARNING  NC_043227 has no quality CDS
+2023-03-10 Friday 08:37:35  PreProcessGenome.py : WARNING  NC_043228 has no quality CDS
+2023-03-10 Friday 08:37:35  PreProcessGenome.py : WARNING  NC_043258 has no quality CDS
+2023-03-10 Friday 08:37:35  PreProcessGenome.py : WARNING  NC_043259 has no quality CDS
+2023-03-10 Friday 08:37:35  PreProcessGenome.py : WARNING  NC_043260 has no quality CDS
+2023-03-10 Friday 08:37:35  PreProcessGenome.py : WARNING  NC_043265 has no quality CDS
+2023-03-10 Friday 08:37:35  PreProcessGenome.py : WARNING  NC_043268 has no quality CDS
+2023-03-10 Friday 08:37:35  PreProcessGenome.py : WARNING  NC_043269 has no quality CDS
+2023-03-10 Friday 08:37:35  PreProcessGenome.py : WARNING  NC_043270 has no quality CDS
+2023-03-10 Friday 08:37:35  PreProcessGenome.py : WARNING  NC_043272 has no quality CDS
+2023-03-10 Friday 08:37:35  PreProcessGenome.py : WARNING  NC_043274 has no quality CDS
+2023-03-10 Friday 08:37:35  PreProcessGenome.py : WARNING  NC_043382 has no quality CDS
+2023-03-10 Friday 08:37:35  PreProcessGenome.py : WARNING  NC_043395 has no quality CDS
+2023-03-10 Friday 08:37:35  PreProcessGenome.py : WARNING  NC_043413 has no quality CDS
+2023-03-10 Friday 08:37:35  PreProcessGenome.py : WARNING  NC_043414 has no quality CDS
+2023-03-10 Friday 08:37:35  PreProcessGenome.py : WARNING  NC_043415 has no quality CDS
+2023-03-10 Friday 08:37:35  PreProcessGenome.py : WARNING  NC_043432 has no quality CDS
+2023-03-10 Friday 08:37:37  PreProcessGenome.py : WARNING  NC_043220 has no quality CDS
+2023-03-10 Friday 08:37:37  PreProcessGenome.py : WARNING  NC_043288 has no quality CDS
+2023-03-10 Friday 08:37:37  PreProcessGenome.py : WARNING  NC_043294 has no quality CDS
+2023-03-10 Friday 08:37:37  PreProcessGenome.py : WARNING  NC_043298 has no quality CDS
+2023-03-10 Friday 08:37:37  PreProcessGenome.py : WARNING  NC_043300 has no quality CDS
+2023-03-10 Friday 08:37:37  PreProcessGenome.py : WARNING  NC_043307 has no quality CDS
+2023-03-10 Friday 08:37:37  PreProcessGenome.py : WARNING  NC_043308 has no quality CDS
+2023-03-10 Friday 08:37:37  PreProcessGenome.py : WARNING  NC_043309 has no quality CDS
+2023-03-10 Friday 08:37:37  PreProcessGenome.py : WARNING  NC_043310 has no quality CDS
+2023-03-10 Friday 08:37:37  PreProcessGenome.py : WARNING  NC_043311 has no quality CDS
+2023-03-10 Friday 08:37:37  PreProcessGenome.py : WARNING  NC_043312 has no quality CDS
+2023-03-10 Friday 08:37:37  PreProcessGenome.py : WARNING  NC_043315 has no quality CDS
+2023-03-10 Friday 08:37:37  PreProcessGenome.py : WARNING  NC_043316 has no quality CDS
+2023-03-10 Friday 08:37:37  PreProcessGenome.py : WARNING  NC_043317 has no quality CDS
+2023-03-10 Friday 08:37:37  PreProcessGenome.py : WARNING  NC_043319 has no quality CDS
+2023-03-10 Friday 08:37:37  PreProcessGenome.py : WARNING  NC_043320 has no quality CDS
+2023-03-10 Friday 08:37:37  PreProcessGenome.py : WARNING  NC_043321 has no quality CDS
+2023-03-10 Friday 08:37:37  PreProcessGenome.py : WARNING  NC_043322 has no quality CDS
+2023-03-10 Friday 08:37:37  PreProcessGenome.py : WARNING  NC_043323 has no quality CDS
+2023-03-10 Friday 08:37:37  PreProcessGenome.py : WARNING  NC_043324 has no quality CDS
+2023-03-10 Friday 08:37:37  PreProcessGenome.py : WARNING  NC_043325 has no quality CDS
+2023-03-10 Friday 08:37:37  PreProcessGenome.py : WARNING  NC_043326 has no quality CDS
+2023-03-10 Friday 08:37:37  PreProcessGenome.py : WARNING  NC_043327 has no quality CDS
+2023-03-10 Friday 08:37:37  PreProcessGenome.py : WARNING  NC_043328 has no quality CDS
+2023-03-10 Friday 08:37:37  PreProcessGenome.py : WARNING  NC_043332 has no quality CDS
+2023-03-10 Friday 08:37:37  PreProcessGenome.py : WARNING  NC_043334 has no quality CDS
+2023-03-10 Friday 08:37:37  PreProcessGenome.py : WARNING  NC_043335 has no quality CDS
+2023-03-10 Friday 08:37:37  PreProcessGenome.py : WARNING  NC_043337 has no quality CDS
+2023-03-10 Friday 08:37:37  PreProcessGenome.py : WARNING  NC_043338 has no quality CDS
+2023-03-10 Friday 08:37:37  PreProcessGenome.py : WARNING  NC_043339 has no quality CDS
+2023-03-10 Friday 08:37:37  PreProcessGenome.py : WARNING  NC_043340 has no quality CDS
+2023-03-10 Friday 08:37:37  PreProcessGenome.py : WARNING  NC_043342 has no quality CDS
+2023-03-10 Friday 08:37:37  PreProcessGenome.py : WARNING  NC_043344 has no quality CDS
+2023-03-10 Friday 08:37:37  PreProcessGenome.py : WARNING  NC_043345 has no quality CDS
+2023-03-10 Friday 08:37:37  PreProcessGenome.py : WARNING  NC_043346 has no quality CDS
+2023-03-10 Friday 08:37:37  PreProcessGenome.py : WARNING  NC_043347 has no quality CDS
+2023-03-10 Friday 08:37:37  PreProcessGenome.py : WARNING  NC_043348 has no quality CDS
+2023-03-10 Friday 08:37:37  PreProcessGenome.py : WARNING  NC_043349 has no quality CDS
+2023-03-10 Friday 08:37:37  PreProcessGenome.py : WARNING  NC_043350 has no quality CDS
+2023-03-10 Friday 08:37:37  PreProcessGenome.py : WARNING  NC_043351 has no quality CDS
+2023-03-10 Friday 08:37:37  PreProcessGenome.py : WARNING  NC_043352 has no quality CDS
+2023-03-10 Friday 08:37:37  PreProcessGenome.py : WARNING  NC_043354 has no quality CDS
+2023-03-10 Friday 08:37:37  PreProcessGenome.py : WARNING  NC_043356 has no quality CDS
+2023-03-10 Friday 08:37:37  PreProcessGenome.py : WARNING  NC_043357 has no quality CDS
+2023-03-10 Friday 08:37:37  PreProcessGenome.py : WARNING  NC_043358 has no quality CDS
+2023-03-10 Friday 08:37:37  PreProcessGenome.py : WARNING  NC_043359 has no quality CDS
+2023-03-10 Friday 08:37:37  PreProcessGenome.py : WARNING  NC_043361 has no quality CDS
+2023-03-10 Friday 08:37:37  PreProcessGenome.py : WARNING  NC_043362 has no quality CDS
+2023-03-10 Friday 08:37:37  PreProcessGenome.py : WARNING  NC_043377 has no quality CDS
+2023-03-10 Friday 08:37:37  PreProcessGenome.py : WARNING  NC_043238 has no quality CDS
+2023-03-10 Friday 08:37:37  PreProcessGenome.py : WARNING  NC_043286 has no quality CDS
+2023-03-10 Friday 08:37:37  PreProcessGenome.py : WARNING  NC_043302 has no quality CDS
+2023-03-10 Friday 08:37:39  PreProcessGenome.py : INFO  NC_040576 length 2104 CDS complement:False [[['1601', '2092']]] X percent=6.75%, translation len: 163 encode len: 163
+2023-03-10 Friday 08:37:40  PreProcessGenome.py : WARNING  NC_044934 has no quality CDS
+2023-03-10 Friday 08:37:40  PreProcessGenome.py : WARNING  NC_044944 has no quality CDS
+2023-03-10 Friday 08:37:40  PreProcessGenome.py : WARNING  NC_044949 has no quality CDS
+2023-03-10 Friday 08:37:40  PreProcessGenome.py : WARNING  NC_044950 has no quality CDS
+2023-03-10 Friday 08:37:40  PreProcessGenome.py : WARNING  NC_044951 has no quality CDS
+2023-03-10 Friday 08:37:40  PreProcessGenome.py : WARNING  NC_044952 has no quality CDS
+2023-03-10 Friday 08:37:40  PreProcessGenome.py : WARNING  NC_044953 has no quality CDS
+2023-03-10 Friday 08:37:40  PreProcessGenome.py : WARNING  NC_044954 has no quality CDS
+2023-03-10 Friday 08:37:40  PreProcessGenome.py : WARNING  NC_003777 has no quality CDS
+2023-03-10 Friday 08:37:56  PreProcessGenome.py : INFO  NC_027925 length 496396 CDS complement:False [[['344064', '344357']]] X percent=5.15%, translation len: 97 encode len: 97
+2023-03-10 Friday 08:38:00  PreProcessGenome.py : INFO  NC_048674 length 230024 CDS complement:True [[['380', '655']]] X percent=16.48%, translation len: 91 encode len: 91
+2023-03-10 Friday 08:38:00  PreProcessGenome.py : INFO  NC_048674 length 230024 CDS complement:False [[['220970', '221068']]] X percent=9.38%, translation len: 32 encode len: 32
+2023-03-10 Friday 08:38:00  PreProcessGenome.py : INFO  NC_048674 length 230024 CDS complement:False [[['221766', '221945']]] X percent=10.17%, translation len: 59 encode len: 59
+2023-03-10 Friday 08:38:00  PreProcessGenome.py : INFO  NC_048674 length 230024 CDS complement:False [[['222372', '222536']]] X percent=25.93%, translation len: 54 encode len: 54
+2023-03-10 Friday 08:38:00  PreProcessGenome.py : INFO  NC_048674 length 230024 CDS complement:False [[['224868', '225512']]] X percent=5.14%, translation len: 214 encode len: 214
+2023-03-10 Friday 08:38:00  PreProcessGenome.py : INFO  NC_048674 length 230024 CDS complement:False [[['225533', '225691']]] X percent=23.08%, translation len: 52 encode len: 52
+2023-03-10 Friday 08:38:00  PreProcessGenome.py : INFO  NC_048674 length 230024 CDS complement:False [[['226972', '227235']]] X percent=9.2%, translation len: 87 encode len: 87
+2023-03-10 Friday 08:38:00  PreProcessGenome.py : INFO  NC_048674 length 230024 CDS complement:False [[['227787', '227999']]] X percent=5.71%, translation len: 70 encode len: 70
+2023-03-10 Friday 08:38:15  PreProcessGenome.py : INFO  NC_048731 length 109515 CDS complement:True [[['60480', '61169']]] X percent=6.11%, translation len: 229 encode len: 229
+2023-03-10 Friday 08:38:33  PreProcessGenome.py : INFO  NC_028793 length 5851 CDS complement:False [[['3736', '4314']]] X percent=6.25%, translation len: 192 encode len: 192
+2023-03-10 Friday 08:38:39  PreProcessGenome.py : WARNING  NC_055459 has no quality CDS
+2023-03-10 Friday 08:38:39  PreProcessGenome.py : WARNING  NC_055469 has no quality CDS
+2023-03-10 Friday 08:38:39  PreProcessGenome.py : WARNING  NC_055550 has no quality CDS
+2023-03-10 Friday 08:38:39  PreProcessGenome.py : WARNING  NC_055235 has no quality CDS
+2023-03-10 Friday 08:38:46  PreProcessGenome.py : INFO  NC_055035 length 130914 CDS complement:False [[['39575', '39889']]] X percent=5.77%, translation len: 104 encode len: 104
+2023-03-10 Friday 08:38:48  PreProcessGenome.py : INFO  MAAKRIPNPPT
+2023-03-10 Friday 08:38:48  PreProcessGenome.py : INFO  VAAKRIPNPPT
+2023-03-10 Friday 08:38:48  PreProcessGenome.py : INFO  NC_055830 length 126550 CDS complement:False [[['77343', '77378']]] unmatch percent=18.18%, translation len: 11 encode len: 11
+2023-03-10 Friday 08:38:52  PreProcessGenome.py : INFO  NC_055891 length 100198 CDS complement:False [[['63525', '63941']]] Z percent 5.07%
+2023-03-10 Friday 08:38:52  PreProcessGenome.py : INFO  NC_055895 length 103832 CDS complement:True [[['74490', '75155']]] Z percent 5.43%
+2023-03-10 Friday 08:38:53  PreProcessGenome.py : INFO  NC_055899 length 101532 CDS complement:False [[['82214', '82879']]] Z percent 5.43%
+2023-03-10 Friday 08:38:53  PreProcessGenome.py : INFO  NC_055902 length 96717 CDS complement:False [[['31339', '32082']]] Z percent 5.67%
+2023-03-10 Friday 08:39:55  PreProcessGenome.py : INFO  NC_055008 length 21749 CDS complement:True [[['5082', '5861']]] X percent=5.79%, translation len: 259 encode len: 259
+2023-03-10 Friday 08:40:01  PreProcessGenome.py : INFO  MSTELQRYVASLDVSA
+2023-03-10 Friday 08:40:01  PreProcessGenome.py : INFO  VSTELQRYVASLDVSA
+2023-03-10 Friday 08:40:01  PreProcessGenome.py : INFO  NC_051637 length 60222 CDS complement:False [[['36569', '36619']]] unmatch percent=12.5%, translation len: 16 encode len: 16
+2023-03-10 Friday 08:40:09  PreProcessGenome.py : INFO  NC_055890 length 97290 CDS complement:True [[['76043', '76255']]] Z percent 5.71%
+2023-03-10 Friday 08:40:09  PreProcessGenome.py : INFO  NC_055894 length 97422 CDS complement:True [[['92880', '93458']]] Z percent 5.21%
+2023-03-10 Friday 08:40:10  PreProcessGenome.py : INFO  NC_055900 length 98095 CDS complement:True [[['49265', '49615']]] Z percent 5.17%
+2023-03-10 Friday 08:40:12  PreProcessGenome.py : INFO  NC_042038 length 47285 CDS complement:False [[['30', '473']]] X percent=5.44%, translation len: 147 encode len: 147
+2023-03-10 Friday 08:40:12  PreProcessGenome.py : INFO  NC_042038 length 47285 CDS complement:False [[['1164', '1325']]] X percent=7.55%, translation len: 53 encode len: 53
+2023-03-10 Friday 08:40:18  PreProcessGenome.py : WARNING  NC_061437 has no quality CDS
+2023-03-10 Friday 08:40:32  PreProcessGenome.py : INFO  NC_067209 length 98573 CDS complement:True [[['87256', '88176']]] Z percent 5.23%
+2023-03-10 Friday 08:40:32  PreProcessGenome.py : INFO  NC_067209 length 98573 CDS complement:True [[['89293', '89961']]] Z percent 5.41%
+2023-03-10 Friday 08:40:32  PreProcessGenome.py : INFO  NC_067210 length 96892 CDS complement:False [[['1930', '2508']]] Z percent 5.21%
+2023-03-10 Friday 08:40:33  PreProcessGenome.py : INFO  NC_067215 length 104085 CDS complement:False [[['42440', '43105']]] Z percent 5.43%
+2023-03-10 Friday 08:40:33  PreProcessGenome.py : INFO  NC_067217 length 97706 CDS complement:False [[['64619', '65197']]] Z percent 5.21%
+2023-03-10 Friday 08:40:38  PreProcessGenome.py : INFO  MGISGEKLGNFLIFK
+2023-03-10 Friday 08:40:38  PreProcessGenome.py : INFO  VGISGEKLGNFLIFK
+2023-03-10 Friday 08:40:38  PreProcessGenome.py : INFO  NC_009231 length 56538 CDS complement:True [[['53341', '53388']]] unmatch percent=13.33%, translation len: 15 encode len: 15
+2023-03-10 Friday 08:40:41  PreProcessGenome.py : WARNING  NC_035797 has no quality CDS
+2023-03-10 Friday 08:40:41  PreProcessGenome.py : WARNING  NC_037579 has no quality CDS
+2023-03-10 Friday 08:40:41  PreProcessGenome.py : WARNING  NC_037580 has no quality CDS
+2023-03-10 Friday 08:40:41  PreProcessGenome.py : WARNING  NC_044948 has no quality CDS
+2023-03-10 Friday 08:40:51  PreProcessGenome.py : WARNING  NC_009799 CDS 9713..14527 has no translation
+2023-03-10 Friday 08:40:54  PreProcessGenome.py : INFO  NC_044937 cds ['90483', 92903] region has error, extend 1 at the end
+2023-03-10 Friday 08:41:00  PreProcessGenome.py : INFO  MQMQEKGWKIIIEEQ
+2023-03-10 Friday 08:41:00  PreProcessGenome.py : INFO  VQMQEKGWKIIIEEQ
+2023-03-10 Friday 08:41:00  PreProcessGenome.py : INFO  NC_007914 length 14462 CDS complement:True [[['913', '960']]] unmatch percent=13.33%, translation len: 15 encode len: 15
+2023-03-10 Friday 08:41:09  PreProcessGenome.py : WARNING  NC_005964 CDS complement(16898..17149) has no translation
+2023-03-10 Friday 08:41:23  PreProcessGenome.py : WARNING  NC_042057 CDS 1546..1995 has no translation
+2023-03-10 Friday 08:41:58  PreProcessGenome.py : INFO  MMGSMKTSTLEAL
+2023-03-10 Friday 08:41:58  PreProcessGenome.py : INFO  VMGSMKTSTLEAL
+2023-03-10 Friday 08:41:58  PreProcessGenome.py : INFO  NC_023742 length 68711 CDS complement:True [[['64546', '64587']]] unmatch percent=15.38%, translation len: 13 encode len: 13
+2023-03-10 Friday 08:42:18  PreProcessGenome.py : INFO  NC_027353 length 167063 CDS complement:True [[['18167', '18268']]] X percent=6.06%, translation len: 33 encode len: 33
+2023-03-10 Friday 08:42:18  PreProcessGenome.py : INFO  NC_027353 length 167063 CDS complement:True [[['21775', '21978']]] X percent=10.45%, translation len: 67 encode len: 67
+2023-03-10 Friday 08:42:18  PreProcessGenome.py : INFO  NC_027353 length 167063 CDS complement:False [[['76091', '76222']]] X percent=9.3%, translation len: 43 encode len: 43
+2023-03-10 Friday 08:42:18  PreProcessGenome.py : INFO  NC_027353 length 167063 CDS complement:True [[['142905', '143048']]] X percent=8.51%, translation len: 47 encode len: 47
+2023-03-10 Friday 08:42:18  PreProcessGenome.py : INFO  NC_027353 length 167063 CDS complement:True [[['147380', '147649']]] X percent=6.74%, translation len: 89 encode len: 89
+2023-03-10 Friday 08:42:27  PreProcessGenome.py : INFO  NC_047740 length 43017 CDS complement:True [[['30511', '30843']]] X percent=6.36%, translation len: 110 encode len: 110
+2023-03-10 Friday 08:42:32  PreProcessGenome.py : INFO  MSPFLFIVRGLICFSLCSV
+2023-03-10 Friday 08:42:32  PreProcessGenome.py : INFO  LSPFLFIVRGLICFSLCSV
+2023-03-10 Friday 08:42:32  PreProcessGenome.py : INFO  NC_028982 length 137918 CDS complement:False [[['123315', '123374']]] unmatch percent=10.53%, translation len: 19 encode len: 19
+2023-03-10 Friday 08:42:57  PreProcessGenome.py : INFO  NC_049978 length 99915 CDS complement:False [[['26170', '26484']]] X percent=5.77%, translation len: 104 encode len: 104
+2023-03-10 Friday 08:42:57  PreProcessGenome.py : INFO  NC_049978 length 99915 CDS complement:True [[['69068', '69292']]] X percent=14.86%, translation len: 74 encode len: 74
+2023-03-10 Friday 08:42:58  PreProcessGenome.py : INFO  NC_028660 length 61035 CDS complement:True [[['42575', '42808']]] X percent=7.79%, translation len: 77 encode len: 77
+2023-03-10 Friday 08:43:05  PreProcessGenome.py : INFO  MARLELTPVARRPLARLG
+2023-03-10 Friday 08:43:05  PreProcessGenome.py : INFO  VARLELTPVARRPLARLG
+2023-03-10 Friday 08:43:05  PreProcessGenome.py : INFO  NC_026590 length 90460 CDS complement:True [[['43352', '43408']]] unmatch percent=11.11%, translation len: 18 encode len: 18
+2023-03-10 Friday 08:43:23  PreProcessGenome.py : INFO  NC_029020 length 50918 CDS complement:False [[['241', '420']]] X percent=15.25%, translation len: 59 encode len: 59
+2023-03-10 Friday 08:43:23  PreProcessGenome.py : INFO  NC_029020 length 50918 CDS complement:False [[['29940', '30194']]] X percent=5.95%, translation len: 84 encode len: 84
+2023-03-10 Friday 08:43:23  PreProcessGenome.py : INFO  NC_029020 length 50918 CDS complement:False [[['46234', '46512']]] X percent=6.52%, translation len: 92 encode len: 92
+2023-03-10 Friday 08:43:28  PreProcessGenome.py : INFO  NC_026440 length 2243109 CDS complement:True [[['309855', '310307']]] X percent=6.0%, translation len: 150 encode len: 150
+2023-03-10 Friday 08:43:56  PreProcessGenome.py : INFO  MKEVKIDKLDIKALKKLSNKMVKIEGDAXXFVDTDISDTKITITTSYILKDVKLKAFDGAKNIVVKLSKDFDKGIEVNVTPKLIDDVDNAVATFEXGXXKXTTXXEETIKNALSSNDLXTALDTIKTXXXXTVXKQLLDELKTXDGNIVKISPDEGXAYXGGKFYDVFYKDGTXXKMXXIXDXXALXKLEKFXEDTVGNFVTLNKNLIEQLLKNNENLRTIEYQLTNKLTGNVVRNEYLRIKDLLGNETKFTSKTEINPNEIKSINEIEGKNLPEISQSSGYLTPQEVDNLLSFDNKFSQIFRQLIDEXPEVKDLLEKLASKGKLPASXXXLEDIADKIESFYXALDXEVKDIESKLSSNPLFDGVKCLECC
+2023-03-10 Friday 08:43:56  PreProcessGenome.py : INFO  VKEVKIDKLDIKALKKLSNKMVKIEGDAXXFVDTDISDTKITITTSYILKDVKLKAFDGAKNIVVKLSKDFDKGIEVNVTPKLIDDVDNAVATFEXGXXKXTTXXEETIKNALSSNDLXTALDTIKTXXXXTVXKQLLDELKTXDGNIVKISPDEGXAYXGGKFYDVFYKDGTXXKMXXIXDXXALXKLEKFXEDTVGNFVTLNKNLIEQLLKNNENLRTIEYQLTNKLTGNVVRNEYLRIKDLLGNETKFTSKTEINPNEIKSINEIEGKNLPEISQSSGYLTPQEVDNLLSFDNKFSQIFRQLIDEXPEVKDLLEKLASKGKLPASXXXLEDIADKIESFYXALDXEVKDIESKLSSNPLFDGVKCLECC
+2023-03-10 Friday 08:43:56  PreProcessGenome.py : INFO  NC_029103 length 64323 CDS complement:False [[['9611', '10729']]] unmatch percent=10.48%, translation len: 372 encode len: 372
+2023-03-10 Friday 08:43:56  PreProcessGenome.py : INFO  NC_029103 length 64323 CDS complement:False [[['9611', '10729']]] X percent=8.6%, translation len: 372 encode len: 372
+2023-03-10 Friday 08:43:56  PreProcessGenome.py : INFO  NC_029103 length 64323 CDS complement:True [[['20646', '22022']]] X percent=6.55%, translation len: 458 encode len: 458
+2023-03-10 Friday 08:43:56  PreProcessGenome.py : INFO  NC_029103 length 64323 CDS complement:False [[['36799', '37293']]] X percent=5.49%, translation len: 164 encode len: 164
+2023-03-10 Friday 08:43:56  PreProcessGenome.py : INFO  NC_029103 length 64323 CDS complement:False [[['54469', '54822']]] X percent=15.38%, translation len: 117 encode len: 117
+2023-03-10 Friday 08:43:56  PreProcessGenome.py : INFO  MGRKPXLNEGFXFVLMKPEEGXEKEEKVRNAIQRKRCELRKKRLX
+2023-03-10 Friday 08:43:56  PreProcessGenome.py : INFO  VGRKPXLNEGFXFVLMKPEEGXEKEEKVRNAIQRKRCELRKKRLX
+2023-03-10 Friday 08:43:56  PreProcessGenome.py : INFO  NC_029011 length 51711 CDS complement:True [[['11847', '11984']]] unmatch percent=15.56%, translation len: 45 encode len: 45
+2023-03-10 Friday 08:43:56  PreProcessGenome.py : INFO  NC_029011 length 51711 CDS complement:True [[['11847', '11984']]] X percent=8.89%, translation len: 45 encode len: 45
+2023-03-10 Friday 08:43:56  PreProcessGenome.py : INFO  NC_029011 length 51711 CDS complement:True [[['12033', '12182']]] X percent=8.16%, translation len: 49 encode len: 49
+2023-03-10 Friday 08:43:56  PreProcessGenome.py : INFO  NC_029027 length 40860 CDS complement:False [[['55', '387']]] X percent=6.36%, translation len: 110 encode len: 110
+2023-03-10 Friday 08:43:56  PreProcessGenome.py : INFO  NC_029027 length 40860 CDS complement:True [[['9853', '10365']]] X percent=15.88%, translation len: 170 encode len: 170
+2023-03-10 Friday 08:43:56  PreProcessGenome.py : INFO  NC_029027 length 40860 CDS complement:False [[['34810', '35052']]] X percent=7.5%, translation len: 80 encode len: 80
+2023-03-10 Friday 08:43:59  PreProcessGenome.py : INFO  MKSLPDPLSQRQAIV
+2023-03-10 Friday 08:43:59  PreProcessGenome.py : INFO  LKSLPDPLSQRQAIV
+2023-03-10 Friday 08:43:59  PreProcessGenome.py : INFO  NC_048637 length 139100 CDS complement:False [[['39442', '39489']]] unmatch percent=13.33%, translation len: 15 encode len: 15
+2023-03-10 Friday 08:44:18  PreProcessGenome.py : INFO  NC_048647 length 146203 CDS complement:False [[['13819', '15222']]] X percent=7.07%, translation len: 467 encode len: 467
+2023-03-10 Friday 08:44:18  PreProcessGenome.py : INFO  NC_048647 length 146203 CDS complement:True [[['61729', '62169']]] X percent=22.6%, translation len: 146 encode len: 146
+2023-03-10 Friday 08:44:18  PreProcessGenome.py : INFO  NC_048647 length 146203 CDS complement:False [[['74158', '74655']]] X percent=20.61%, translation len: 165 encode len: 165
+2023-03-10 Friday 08:44:18  PreProcessGenome.py : INFO  NC_048647 length 146203 CDS complement:True [[['119832', '120242']]] X percent=24.26%, translation len: 136 encode len: 136
+2023-03-10 Friday 08:44:34  PreProcessGenome.py : INFO  MDLLIIILLIVVIIAIFS
+2023-03-10 Friday 08:44:34  PreProcessGenome.py : INFO  VDLLIIILLIVVIIAIFS
+2023-03-10 Friday 08:44:34  PreProcessGenome.py : INFO  NC_053515 length 84303 CDS complement:False [[['41834', '41890']]] unmatch percent=11.11%, translation len: 18 encode len: 18
+2023-03-10 Friday 08:44:50  PreProcessGenome.py : INFO  finished to process file viral.1.genomic.gbff
